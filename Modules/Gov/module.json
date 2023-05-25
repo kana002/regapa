@@ -1,0 +1,13 @@
+{
+    "name": "Gov",
+    "alias": "gov",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gov\\Providers\\GovServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

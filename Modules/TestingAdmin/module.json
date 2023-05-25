@@ -1,0 +1,13 @@
+{
+    "name": "TestingAdmin",
+    "alias": "testingadmin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TestingAdmin\\Providers\\TestingAdminServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

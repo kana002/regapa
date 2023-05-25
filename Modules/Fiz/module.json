@@ -1,0 +1,13 @@
+{
+    "name": "Fiz",
+    "alias": "fiz",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Fiz\\Providers\\FizServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

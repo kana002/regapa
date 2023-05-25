@@ -1,0 +1,13 @@
+{
+    "name": "Yur",
+    "alias": "yur",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Yur\\Providers\\YurServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

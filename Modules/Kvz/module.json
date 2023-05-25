@@ -1,0 +1,13 @@
+{
+    "name": "Kvz",
+    "alias": "kvz",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kvz\\Providers\\KvzServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
